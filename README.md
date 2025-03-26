@@ -25,7 +25,7 @@ Ex.:
 OBS1: Azure AI services deve estar na mesma localidade que o seu recurso do Azure AI Search.
 OBS2: Permitia o acesso anônimo do Blob na area do Storage account
 
-## Azure AI Search / Azure Cognitive Search
+## AI Generativa com Copilot
 
 # Copilot
  
